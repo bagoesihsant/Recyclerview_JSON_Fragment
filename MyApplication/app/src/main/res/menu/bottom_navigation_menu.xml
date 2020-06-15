@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_public_black_24dp"
+        android:title="Home" />
+    <item
+        android:id="@+id/schedule"
+        android:icon="@drawable/ic_assignment_black_24dp"
+        android:title="Schedules" />
+    <item
+        android:id="@+id/tasks"
+        android:icon="@drawable/ic_playlist_add_check_black_24dp"
+        android:title="Tasks" />
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="Profile" />
+</menu>
